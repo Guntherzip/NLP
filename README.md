@@ -1,5 +1,5 @@
 # NLP
-Natural Language Processing Repository
+##Natural Language Processing Repository
 
 <p>This is a repository for examples of NLP library applications including:<br>
   -Document Comparison for applications such as plagiarism detection<br>
